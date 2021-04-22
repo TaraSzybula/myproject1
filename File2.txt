@@ -1,0 +1,5 @@
+function checkStatus(value) {
+if (value == 0) ? alert("Everything is good.") : alert("There is a problem.");
+}
+
+checkStatus(0);
