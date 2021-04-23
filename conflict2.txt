@@ -1,1 +1,1 @@
-This file was created to practice conflict scenario of git the right way, hoping it's going to work now.
+This file was created to practice conflict scenario of git the right way, hoping it's going to work this time.
